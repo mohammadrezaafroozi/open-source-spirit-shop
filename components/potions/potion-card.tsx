@@ -5,6 +5,7 @@ import { getMagicalTypeIcon } from '@/utils';
 import Link from 'next/link';
 import { PotionHeader, PotionStats } from './potion-common';
 
+
 export const PotionCard = ({
   full_name,
   name,
